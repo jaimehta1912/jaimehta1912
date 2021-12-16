@@ -22,7 +22,7 @@ I’m a PRE Final year student pursuing a Bachelors’ Degree in Computer scienc
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/Jai72248409?t=UbTVer_AFy7zonBMA4yhwA&s=09" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jai-m-9860ab1aa/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jai-mehta-9860ab1aa/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 <hr>
