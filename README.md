@@ -9,7 +9,7 @@ I’m a PRE Final year student pursuing a Bachelors’ Degree in Computer scienc
 <p>
 <a align= "center" href="https://github.com/sahilverma3120">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=onso19&theme=radical">
-<img align="right" height="600" width="400" src="https://i.imgur.com/BGyobos.gif" /> </a>
+<img align="right" height="600" width="400" src="https://ibb.co/8520Xhn" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=onso19&count_private=true&theme=radical&show_icons=true" />
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onso19&layout=compact&theme=radical" />
@@ -17,6 +17,7 @@ I’m a PRE Final year student pursuing a Bachelors’ Degree in Computer scienc
  <img height="50" width="50" src="https://img.icons8.com/ios/50/000000/solidity.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/ethereum.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 <img height="50" width="50" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+
 ## - 📫 Reach Out To Me **19bcs6089@cuchd.in**
 <br><br>
 <hr>
