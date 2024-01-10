@@ -3,7 +3,7 @@
         height="45"
          width="45" />, I'm Jai Mehta </h1>
 <h4 align="center">
-I’m a student pursuing a Bachelors of Engineering in Computer science, <I>from Chandigarh University</I></h4><h5 align="center">I am avid in Web Development , Data Structures & Algorithms, Competitive Programming , Machine Learning (<I>Deep Learning</I>) and Blockchain(Ethereum) .</h5> 
+I’m Bachelors of Engineering in Computer science(AI & ML) graduate, <I>from Chandigarh University</I></h4><h5 align="center">I am avid in Web Development , Data Structures & Algorithms, Competitive Programming , Machine Learning (<I>Deep Learning</I>) and Blockchain(Ethereum) .</h5> 
 </h5>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilverma3120&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22sahilverma3120" /> </p>
