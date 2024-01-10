@@ -29,13 +29,11 @@ I’m Bachelors of Engineering in Computer science(AI & ML) graduate, <I>from Ch
 <hr>
 <p align ="center">
 <h2 align="center"> 
-         📫 Email me on " 19bcs6089@cuchd.in " OR " jaimehta1912@gmail.com "
+         📫 Email me on jaimehta1912@gmail.com "
 </h2>
 </p>
 <h3 align="center">Connect with me on :</h3>
 <p align="center">
-<a href="https://twitter.com/Jai72248409?t=UbTVer_AFy7zonBMA4yhwA&s=09" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jai-mehta-9860ab1aa/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 <hr>
